@@ -29,3 +29,20 @@ border-color: black;
 .footer {
 	border-color: aqua;
 }
+
+.top-nav {
+	background-color: goldenrod;
+	height: 45px;
+}
+
+.top-nav li {
+	list-style-type: none;
+	font-family: "Arial";
+	padding:  0 9px;
+	float: left;
+	margin: 10px;
+	cursor: pointer; 
+}
+
+}
+}
