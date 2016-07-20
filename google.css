@@ -1,0 +1,13 @@
+.nav {
+	margin: 0 10px 0 10px;
+	float: right;
+}
+
+.footer {
+	position: fixed;
+	left: 0px;
+	bottom: 0px;
+	height: 40px;
+	background: grey;
+	width: 100%;
+}
