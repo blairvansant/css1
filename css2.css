@@ -1,5 +1,5 @@
 body {
-	background: blue;
+	background: skyblue;
 }
 
 div {
@@ -19,7 +19,7 @@ div {
 	display: block;
 }
 article section:nth-child(2n) {
-border: 2px dashed red;
+border: 2px dashed white;
 
 }
 
